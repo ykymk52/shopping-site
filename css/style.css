@@ -304,7 +304,7 @@ header .container {
         display: inline-block; } }
     #maincontents .nine.product #cart button {
       border: 0;
-      padding: 0 auto;
+      padding: 0 auto !important;
       margin: 15px 0 0 0; }
   #maincontents .nine.product #item_desc h2, #maincontents .nine.product #item_desc h3 {
     padding: 10px 0;
